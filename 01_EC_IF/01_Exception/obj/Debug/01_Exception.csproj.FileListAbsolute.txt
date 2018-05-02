@@ -1,0 +1,7 @@
+C:\Users\ti02\source\repos\01_EC_IF\01_Exception\bin\Debug\01_Exception.exe.config
+C:\Users\ti02\source\repos\01_EC_IF\01_Exception\bin\Debug\01_Exception.exe
+C:\Users\ti02\source\repos\01_EC_IF\01_Exception\bin\Debug\01_Exception.pdb
+C:\Users\ti02\source\repos\01_EC_IF\01_Exception\obj\Debug\01_Exception.csprojResolveAssemblyReference.cache
+C:\Users\ti02\source\repos\01_EC_IF\01_Exception\obj\Debug\01_Exception.csproj.CoreCompileInputs.cache
+C:\Users\ti02\source\repos\01_EC_IF\01_Exception\obj\Debug\01_Exception.exe
+C:\Users\ti02\source\repos\01_EC_IF\01_Exception\obj\Debug\01_Exception.pdb

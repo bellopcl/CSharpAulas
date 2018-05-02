@@ -1,0 +1,6 @@
+C:\Users\ti02\source\repos\01_EC_IF\04_Dicionario\bin\Debug\04_Dicionario.exe.config
+C:\Users\ti02\source\repos\01_EC_IF\04_Dicionario\bin\Debug\04_Dicionario.exe
+C:\Users\ti02\source\repos\01_EC_IF\04_Dicionario\bin\Debug\04_Dicionario.pdb
+C:\Users\ti02\source\repos\01_EC_IF\04_Dicionario\obj\Debug\04_Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\ti02\source\repos\01_EC_IF\04_Dicionario\obj\Debug\04_Dicionario.exe
+C:\Users\ti02\source\repos\01_EC_IF\04_Dicionario\obj\Debug\04_Dicionario.pdb

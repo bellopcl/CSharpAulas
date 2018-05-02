@@ -1,0 +1,7 @@
+C:\Users\ti02\source\repos\01_EC_IF\03_lista\bin\Debug\03_lista.exe.config
+C:\Users\ti02\source\repos\01_EC_IF\03_lista\bin\Debug\03_lista.exe
+C:\Users\ti02\source\repos\01_EC_IF\03_lista\bin\Debug\03_lista.pdb
+C:\Users\ti02\source\repos\01_EC_IF\03_lista\obj\Debug\03_lista.csprojResolveAssemblyReference.cache
+C:\Users\ti02\source\repos\01_EC_IF\03_lista\obj\Debug\03_lista.csproj.CoreCompileInputs.cache
+C:\Users\ti02\source\repos\01_EC_IF\03_lista\obj\Debug\03_lista.exe
+C:\Users\ti02\source\repos\01_EC_IF\03_lista\obj\Debug\03_lista.pdb

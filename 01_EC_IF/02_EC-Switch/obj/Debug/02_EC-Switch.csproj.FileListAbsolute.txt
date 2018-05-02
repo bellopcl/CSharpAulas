@@ -1,0 +1,7 @@
+C:\Users\ti02\source\repos\01_EC_IF\02_EC-Switch\bin\Debug\02_EC-Switch.exe.config
+C:\Users\ti02\source\repos\01_EC_IF\02_EC-Switch\bin\Debug\02_EC-Switch.exe
+C:\Users\ti02\source\repos\01_EC_IF\02_EC-Switch\bin\Debug\02_EC-Switch.pdb
+C:\Users\ti02\source\repos\01_EC_IF\02_EC-Switch\obj\Debug\02_EC-Switch.csprojResolveAssemblyReference.cache
+C:\Users\ti02\source\repos\01_EC_IF\02_EC-Switch\obj\Debug\02_EC-Switch.csproj.CoreCompileInputs.cache
+C:\Users\ti02\source\repos\01_EC_IF\02_EC-Switch\obj\Debug\02_EC-Switch.exe
+C:\Users\ti02\source\repos\01_EC_IF\02_EC-Switch\obj\Debug\02_EC-Switch.pdb

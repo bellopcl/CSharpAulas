@@ -1,0 +1,7 @@
+C:\Users\ti02\source\repos\02_VariavelShortintLong\09_ConversaoNumero\bin\Debug\09_ConversaoNumero.exe.config
+C:\Users\ti02\source\repos\02_VariavelShortintLong\09_ConversaoNumero\bin\Debug\09_ConversaoNumero.exe
+C:\Users\ti02\source\repos\02_VariavelShortintLong\09_ConversaoNumero\bin\Debug\09_ConversaoNumero.pdb
+C:\Users\ti02\source\repos\02_VariavelShortintLong\09_ConversaoNumero\obj\Debug\09_ConversaoNumero.csprojResolveAssemblyReference.cache
+C:\Users\ti02\source\repos\02_VariavelShortintLong\09_ConversaoNumero\obj\Debug\09_ConversaoNumero.csproj.CoreCompileInputs.cache
+C:\Users\ti02\source\repos\02_VariavelShortintLong\09_ConversaoNumero\obj\Debug\09_ConversaoNumero.exe
+C:\Users\ti02\source\repos\02_VariavelShortintLong\09_ConversaoNumero\obj\Debug\09_ConversaoNumero.pdb

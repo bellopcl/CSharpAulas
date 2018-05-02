@@ -1,0 +1,7 @@
+C:\Users\ti02\source\repos\01_EC_IF\01_EC_IF\bin\Debug\01_EC_IF.exe.config
+C:\Users\ti02\source\repos\01_EC_IF\01_EC_IF\bin\Debug\01_EC_IF.exe
+C:\Users\ti02\source\repos\01_EC_IF\01_EC_IF\bin\Debug\01_EC_IF.pdb
+C:\Users\ti02\source\repos\01_EC_IF\01_EC_IF\obj\Debug\01_EC_IF.csprojResolveAssemblyReference.cache
+C:\Users\ti02\source\repos\01_EC_IF\01_EC_IF\obj\Debug\01_EC_IF.csproj.CoreCompileInputs.cache
+C:\Users\ti02\source\repos\01_EC_IF\01_EC_IF\obj\Debug\01_EC_IF.exe
+C:\Users\ti02\source\repos\01_EC_IF\01_EC_IF\obj\Debug\01_EC_IF.pdb

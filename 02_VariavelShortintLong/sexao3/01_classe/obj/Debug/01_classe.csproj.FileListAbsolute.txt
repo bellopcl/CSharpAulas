@@ -1,0 +1,7 @@
+C:\Users\ti02\source\repos\02_VariavelShortintLong\sexao3\01_classe\bin\Debug\01_classe.exe.config
+C:\Users\ti02\source\repos\02_VariavelShortintLong\sexao3\01_classe\bin\Debug\01_classe.exe
+C:\Users\ti02\source\repos\02_VariavelShortintLong\sexao3\01_classe\bin\Debug\01_classe.pdb
+C:\Users\ti02\source\repos\02_VariavelShortintLong\sexao3\01_classe\obj\Debug\01_classe.csprojResolveAssemblyReference.cache
+C:\Users\ti02\source\repos\02_VariavelShortintLong\sexao3\01_classe\obj\Debug\01_classe.csproj.CoreCompileInputs.cache
+C:\Users\ti02\source\repos\02_VariavelShortintLong\sexao3\01_classe\obj\Debug\01_classe.exe
+C:\Users\ti02\source\repos\02_VariavelShortintLong\sexao3\01_classe\obj\Debug\01_classe.pdb

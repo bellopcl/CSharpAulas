@@ -1,0 +1,7 @@
+C:\Users\ti02\source\repos\02_VariavelShortintLong\01_Exercicios\bin\Debug\01_Exercicios.exe.config
+C:\Users\ti02\source\repos\02_VariavelShortintLong\01_Exercicios\bin\Debug\01_Exercicios.exe
+C:\Users\ti02\source\repos\02_VariavelShortintLong\01_Exercicios\bin\Debug\01_Exercicios.pdb
+C:\Users\ti02\source\repos\02_VariavelShortintLong\01_Exercicios\obj\Debug\01_Exercicios.csprojResolveAssemblyReference.cache
+C:\Users\ti02\source\repos\02_VariavelShortintLong\01_Exercicios\obj\Debug\01_Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\ti02\source\repos\02_VariavelShortintLong\01_Exercicios\obj\Debug\01_Exercicios.exe
+C:\Users\ti02\source\repos\02_VariavelShortintLong\01_Exercicios\obj\Debug\01_Exercicios.pdb

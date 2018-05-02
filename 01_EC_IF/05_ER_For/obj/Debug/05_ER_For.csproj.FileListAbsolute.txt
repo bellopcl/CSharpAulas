@@ -1,0 +1,7 @@
+C:\Users\ti02\source\repos\01_EC_IF\05_ER_For\bin\Debug\05_ER_For.exe.config
+C:\Users\ti02\source\repos\01_EC_IF\05_ER_For\bin\Debug\05_ER_For.exe
+C:\Users\ti02\source\repos\01_EC_IF\05_ER_For\bin\Debug\05_ER_For.pdb
+C:\Users\ti02\source\repos\01_EC_IF\05_ER_For\obj\Debug\05_ER_For.csprojResolveAssemblyReference.cache
+C:\Users\ti02\source\repos\01_EC_IF\05_ER_For\obj\Debug\05_ER_For.csproj.CoreCompileInputs.cache
+C:\Users\ti02\source\repos\01_EC_IF\05_ER_For\obj\Debug\05_ER_For.exe
+C:\Users\ti02\source\repos\01_EC_IF\05_ER_For\obj\Debug\05_ER_For.pdb

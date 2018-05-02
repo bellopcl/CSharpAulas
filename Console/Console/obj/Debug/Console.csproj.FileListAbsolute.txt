@@ -1,0 +1,7 @@
+C:\Users\ti02\source\repos\Console\Console\bin\Debug\Console.exe.config
+C:\Users\ti02\source\repos\Console\Console\bin\Debug\Console.exe
+C:\Users\ti02\source\repos\Console\Console\bin\Debug\Console.pdb
+C:\Users\ti02\source\repos\Console\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\ti02\source\repos\Console\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\ti02\source\repos\Console\Console\obj\Debug\Console.exe
+C:\Users\ti02\source\repos\Console\Console\obj\Debug\Console.pdb

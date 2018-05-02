@@ -1,0 +1,6 @@
+C:\Users\ti02\source\repos\01_EC_IF\03_EC_While\bin\Debug\03_EC_While.exe.config
+C:\Users\ti02\source\repos\01_EC_IF\03_EC_While\bin\Debug\03_EC_While.exe
+C:\Users\ti02\source\repos\01_EC_IF\03_EC_While\bin\Debug\03_EC_While.pdb
+C:\Users\ti02\source\repos\01_EC_IF\03_EC_While\obj\Debug\03_EC_While.csproj.CoreCompileInputs.cache
+C:\Users\ti02\source\repos\01_EC_IF\03_EC_While\obj\Debug\03_EC_While.exe
+C:\Users\ti02\source\repos\01_EC_IF\03_EC_While\obj\Debug\03_EC_While.pdb
